@@ -16,9 +16,9 @@ Hello world!
 Ведьмаку заплатите, зачтется все это вам
 ```
 
-3. Выведите на экран текущую дату и время. **+2** [hint](https://stackoverflow.com/questions/3103178/how-to-get-the-system-info-with-python)
+3. Выведите на экран текущую дату и время. **+2** [hint](https://stackoverflow.com/questions/415511/how-to-get-the-current-time-in-python)
 
-3 ¾. Выведите на экран тип операционной системы и разрядность процессора. **+2** [hint](https://stackoverflow.com/questions/415511/how-to-get-the-current-time-in-python)
+3 ¾. Выведите на экран тип операционной системы и разрядность процессора. **+2** [hint](https://stackoverflow.com/questions/3103178/how-to-get-the-system-info-with-python)
 
 ```
 Darwin-20.5.0-x86_64-i386-64bit
